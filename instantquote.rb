@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+# data collected from gist https://gist.github.com/preetcoder/54281a17f61e98e8c0f8e84eda7d9b1e
 brands = {
     "Apple iPhone": 1,
     "Apple iPad": 2,

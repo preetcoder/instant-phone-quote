@@ -1,0 +1,1608 @@
+[
+    {
+        "series_id": "15",
+        "series_name": "OPPO",
+        "models": [
+            {
+                "id": "483",
+                "name": "Oppo A60 5G / A80 5G",
+                "sort_order": "1"
+            },
+            {
+                "id": "484",
+                "name": "Oppo A7x",
+                "sort_order": "2"
+            },
+            {
+                "id": "485",
+                "name": "Oppo Ax5s",
+                "sort_order": "3"
+            },
+            {
+                "id": "268",
+                "name": "OPPO A92",
+                "sort_order": "4"
+            },
+            {
+                "id": "258",
+                "name": "OPPO A72",
+                "sort_order": "5"
+            },
+            {
+                "id": "249",
+                "name": "OPPO A52",
+                "sort_order": "6"
+            },
+            {
+                "id": "486",
+                "name": "Oppo F9",
+                "sort_order": "7"
+            },
+            {
+                "id": "245",
+                "name": "OPPO A32",
+                "sort_order": "8"
+            },
+            {
+                "id": "487",
+                "name": "Oppo A9 / A5 2020",
+                "sort_order": "9"
+            },
+            {
+                "id": "488",
+                "name": "Oppo A18 / A32",
+                "sort_order": "10"
+            },
+            {
+                "id": "489",
+                "name": "OPPO A17",
+                "sort_order": "11"
+            },
+            {
+                "id": "241",
+                "name": "OPPO A16",
+                "sort_order": "12"
+            },
+            {
+                "id": "239",
+                "name": "OPPO A15",
+                "sort_order": "13"
+            },
+            {
+                "id": "273",
+                "name": "OPPO A98 5G",
+                "sort_order": "14"
+            },
+            {
+                "id": "490",
+                "name": "OPPO A98 4G",
+                "sort_order": "15"
+            },
+            {
+                "id": "272",
+                "name": "OPPO A96 4G",
+                "sort_order": "16"
+            },
+            {
+                "id": "491",
+                "name": "Oppo A96 5G",
+                "sort_order": "17"
+            },
+            {
+                "id": "267",
+                "name": "Oppo A91 / Find X2 lite",
+                "sort_order": "18"
+            },
+            {
+                "id": "264",
+                "name": "OPPO A79",
+                "sort_order": "19"
+            },
+            {
+                "id": "263",
+                "name": "Oppo A78 4G / Find X5 Lite",
+                "sort_order": "20"
+            },
+            {
+                "id": "262",
+                "name": "OPPO A77",
+                "sort_order": "21"
+            },
+            {
+                "id": "261",
+                "name": "OPPO A76",
+                "sort_order": "22"
+            },
+            {
+                "id": "260",
+                "name": "OPPO A74 4G",
+                "sort_order": "23"
+            },
+            {
+                "id": "259",
+                "name": "OPPO A73",
+                "sort_order": "24"
+            },
+            {
+                "id": "492",
+                "name": "Oppo A73 5G",
+                "sort_order": "25"
+            },
+            {
+                "id": "493",
+                "name": "Oppo A59 / F1s",
+                "sort_order": "26"
+            },
+            {
+                "id": "255",
+                "name": "OPPO A57 2016",
+                "sort_order": "27"
+            },
+            {
+                "id": "494",
+                "name": "Oppo A57 4G",
+                "sort_order": "28"
+            },
+            {
+                "id": "254",
+                "name": "OPPO A56 5G",
+                "sort_order": "29"
+            }
+        ],
+        "brand": "12"
+    },
+    {
+        "series_id": "13",
+        "series_name": "Galaxy Tab A Series",
+        "models": [
+            {
+                "id": "203",
+                "name": "Galaxy Tab A9+",
+                "sort_order": "1"
+            },
+            {
+                "id": "202",
+                "name": "Galaxy Tab A9",
+                "sort_order": "2"
+            },
+            {
+                "id": "204",
+                "name": "Galaxy Tab A8",
+                "sort_order": "3"
+            },
+            {
+                "id": "206",
+                "name": "Galaxy Tab A7 Lite",
+                "sort_order": "4"
+            },
+            {
+                "id": "205",
+                "name": "Galaxy Tab A7",
+                "sort_order": "5"
+            },
+            {
+                "id": "450",
+                "name": "Galaxy Tab T510",
+                "sort_order": "6"
+            },
+            {
+                "id": "451",
+                "name": "Galaxy Tab T550",
+                "sort_order": "7"
+            },
+            {
+                "id": "452",
+                "name": "Galaxy Tab T580",
+                "sort_order": "8"
+            },
+            {
+                "id": "453",
+                "name": "Galaxy Tab T590",
+                "sort_order": "9"
+            },
+            {
+                "id": "454",
+                "name": "Galaxy Tab T290",
+                "sort_order": "10"
+            },
+            {
+                "id": "455",
+                "name": "Galaxy Tab T280",
+                "sort_order": "11"
+            },
+            {
+                "id": "456",
+                "name": "Galaxy Tab T380/T385",
+                "sort_order": "12"
+            }
+        ],
+        "brand": "10"
+    },
+    {
+        "series_id": "1",
+        "series_name": "iPhone",
+        "models": [
+            {
+                "id": "34",
+                "name": "iPhone 16",
+                "sort_order": "1"
+            },
+            {
+                "id": "35",
+                "name": "iPhone 16 Plus",
+                "sort_order": "2"
+            },
+            {
+                "id": "36",
+                "name": "iPhone 16 Pro",
+                "sort_order": "3"
+            },
+            {
+                "id": "37",
+                "name": "iPhone 16 Pro Max",
+                "sort_order": "4"
+            },
+            {
+                "id": "400",
+                "name": "iPhone 16e",
+                "sort_order": "5"
+            },
+            {
+                "id": "30",
+                "name": "iPhone 15",
+                "sort_order": "6"
+            },
+            {
+                "id": "31",
+                "name": "iPhone 15 Plus",
+                "sort_order": "7"
+            },
+            {
+                "id": "32",
+                "name": "iPhone 15 Pro",
+                "sort_order": "8"
+            },
+            {
+                "id": "33",
+                "name": "iPhone 15 Pro Max",
+                "sort_order": "9"
+            },
+            {
+                "id": "26",
+                "name": "iPhone 14",
+                "sort_order": "10"
+            },
+            {
+                "id": "27",
+                "name": "iPhone 14 Plus",
+                "sort_order": "11"
+            },
+            {
+                "id": "28",
+                "name": "iPhone 14 Pro",
+                "sort_order": "12"
+            },
+            {
+                "id": "29",
+                "name": "iPhone 14 Pro Max",
+                "sort_order": "13"
+            },
+            {
+                "id": "22",
+                "name": "iPhone 13",
+                "sort_order": "14"
+            },
+            {
+                "id": "23",
+                "name": "iPhone 13 Mini",
+                "sort_order": "15"
+            },
+            {
+                "id": "24",
+                "name": "iPhone 13 Pro",
+                "sort_order": "16"
+            },
+            {
+                "id": "25",
+                "name": "iPhone 13 Pro Max",
+                "sort_order": "17"
+            },
+            {
+                "id": "18",
+                "name": "iPhone 12",
+                "sort_order": "18"
+            },
+            {
+                "id": "19",
+                "name": "iPhone 12 Mini",
+                "sort_order": "19"
+            },
+            {
+                "id": "20",
+                "name": "iPhone 12 Pro",
+                "sort_order": "20"
+            },
+            {
+                "id": "21",
+                "name": "iPhone 12 Pro Max",
+                "sort_order": "21"
+            },
+            {
+                "id": "15",
+                "name": "iPhone 11",
+                "sort_order": "22"
+            },
+            {
+                "id": "16",
+                "name": "iPhone 11 Pro",
+                "sort_order": "23"
+            },
+            {
+                "id": "17",
+                "name": "iPhone 11 Pro Max",
+                "sort_order": "24"
+            },
+            {
+                "id": "13",
+                "name": "iPhone XS",
+                "sort_order": "25"
+            },
+            {
+                "id": "12",
+                "name": "iPhone XR",
+                "sort_order": "27"
+            },
+            {
+                "id": "11",
+                "name": "iPhone X",
+                "sort_order": "28"
+            },
+            {
+                "id": "14",
+                "name": "iPhone XS Max",
+                "sort_order": "28"
+            },
+            {
+                "id": "403",
+                "name": "iphone SE 1st Gen",
+                "sort_order": "29"
+            },
+            {
+                "id": "9",
+                "name": "iPhone SE 2nd Gen",
+                "sort_order": "31"
+            },
+            {
+                "id": "10",
+                "name": "iPhone SE 3rd Gen",
+                "sort_order": "32"
+            },
+            {
+                "id": "7",
+                "name": "iPhone 8",
+                "sort_order": "33"
+            },
+            {
+                "id": "8",
+                "name": "iPhone 8 Plus",
+                "sort_order": "34"
+            },
+            {
+                "id": "5",
+                "name": "iPhone 7",
+                "sort_order": "35"
+            },
+            {
+                "id": "6",
+                "name": "iPhone 7 Plus",
+                "sort_order": "36"
+            },
+            {
+                "id": "3",
+                "name": "iPhone 6S",
+                "sort_order": "37"
+            },
+            {
+                "id": "4",
+                "name": "iPhone 6S Plus",
+                "sort_order": "38"
+            },
+            {
+                "id": "1",
+                "name": "iPhone 6",
+                "sort_order": "39"
+            },
+            {
+                "id": "2",
+                "name": "iPhone 6 Plus",
+                "sort_order": "40"
+            },
+            {
+                "id": "406",
+                "name": "iphone 5",
+                "sort_order": "41"
+            },
+            {
+                "id": "405",
+                "name": "iphone 5C",
+                "sort_order": "42"
+            },
+            {
+                "id": "404",
+                "name": "iphone 5S",
+                "sort_order": "43"
+            }
+        ],
+        "brand": "1"
+    },
+    {
+        "series_id": "14",
+        "series_name": "Google Pixel",
+        "models": [
+            {
+                "id": "420",
+                "name": "Pixel 10 Pro XL",
+                "sort_order": "1"
+            },
+            {
+                "id": "421",
+                "name": "Pixel 10 Pro",
+                "sort_order": "2"
+            },
+            {
+                "id": "422",
+                "name": "Pixel 10",
+                "sort_order": "3"
+            },
+            {
+                "id": "226",
+                "name": "Pixel 9a",
+                "sort_order": "4"
+            },
+            {
+                "id": "229",
+                "name": "Pixel 9 Pro Fold",
+                "sort_order": "5"
+            },
+            {
+                "id": "228",
+                "name": "Pixel 9 Pro XL",
+                "sort_order": "6"
+            },
+            {
+                "id": "227",
+                "name": "Pixel 9 Pro",
+                "sort_order": "7"
+            },
+            {
+                "id": "225",
+                "name": "Pixel 9",
+                "sort_order": "8"
+            },
+            {
+                "id": "223",
+                "name": "Pixel 8a",
+                "sort_order": "9"
+            },
+            {
+                "id": "224",
+                "name": "Pixel 8 Pro",
+                "sort_order": "10"
+            },
+            {
+                "id": "222",
+                "name": "Pixel 8",
+                "sort_order": "11"
+            },
+            {
+                "id": "220",
+                "name": "Pixel 7a",
+                "sort_order": "12"
+            },
+            {
+                "id": "221",
+                "name": "Pixel 7 Pro",
+                "sort_order": "13"
+            },
+            {
+                "id": "219",
+                "name": "Pixel 7",
+                "sort_order": "14"
+            },
+            {
+                "id": "217",
+                "name": "Pixel 6a",
+                "sort_order": "15"
+            },
+            {
+                "id": "218",
+                "name": "Pixel 6 Pro",
+                "sort_order": "16"
+            },
+            {
+                "id": "216",
+                "name": "Pixel 6",
+                "sort_order": "17"
+            },
+            {
+                "id": "215",
+                "name": "Pixel 5a (5G)",
+                "sort_order": "18"
+            },
+            {
+                "id": "214",
+                "name": "Pixel 5",
+                "sort_order": "19"
+            },
+            {
+                "id": "423",
+                "name": "Pixel 4a (5G)",
+                "sort_order": "20"
+            },
+            {
+                "id": "424",
+                "name": "Pixel 4a",
+                "sort_order": "21"
+            },
+            {
+                "id": "425",
+                "name": "Pixel 4 XL",
+                "sort_order": "22"
+            },
+            {
+                "id": "426",
+                "name": "Pixel 4",
+                "sort_order": "23"
+            }
+        ],
+        "brand": "11"
+    },
+    {
+        "series_id": "8",
+        "series_name": "Galaxy S Series",
+        "models": [
+            {
+                "id": "118",
+                "name": "Galaxy S25 Ultra (2025)",
+                "sort_order": "1"
+            },
+            {
+                "id": "117",
+                "name": "Galaxy S25 plus (2025)",
+                "sort_order": "2"
+            },
+            {
+                "id": "116",
+                "name": "Galaxy S25 (2025)",
+                "sort_order": "3"
+            },
+            {
+                "id": "114",
+                "name": "Galaxy S24 Ultra (2024)",
+                "sort_order": "4"
+            },
+            {
+                "id": "113",
+                "name": "Galaxy S24 plus (2024)",
+                "sort_order": "5"
+            },
+            {
+                "id": "112",
+                "name": "Galaxy S24 (2024)",
+                "sort_order": "6"
+            },
+            {
+                "id": "115",
+                "name": "Galaxy S24 FE (2024)",
+                "sort_order": "7"
+            },
+            {
+                "id": "111",
+                "name": "Galaxy S23 Ultra (2023)",
+                "sort_order": "8"
+            },
+            {
+                "id": "110",
+                "name": "Galaxy S23 plus (2023)",
+                "sort_order": "9"
+            },
+            {
+                "id": "108",
+                "name": "Galaxy S23 (2023)",
+                "sort_order": "10"
+            },
+            {
+                "id": "109",
+                "name": "Galaxy S23 FE (2023)",
+                "sort_order": "11"
+            },
+            {
+                "id": "107",
+                "name": "Galaxy S22 Ultra (2022)",
+                "sort_order": "12"
+            },
+            {
+                "id": "106",
+                "name": "Galaxy S22 Plus (2022)",
+                "sort_order": "13"
+            },
+            {
+                "id": "105",
+                "name": "Galaxy S22 (2022)",
+                "sort_order": "14"
+            },
+            {
+                "id": "104",
+                "name": "Galaxy S21 Ultra (2021)",
+                "sort_order": "15"
+            },
+            {
+                "id": "103",
+                "name": "Galaxy S21 Plus (2021)",
+                "sort_order": "16"
+            },
+            {
+                "id": "101",
+                "name": "Galaxy S21 (2021)",
+                "sort_order": "17"
+            },
+            {
+                "id": "102",
+                "name": "Galaxy S21 FE (2021)",
+                "sort_order": "18"
+            },
+            {
+                "id": "100",
+                "name": "Galaxy S20 Ultra (2020)",
+                "sort_order": "19"
+            },
+            {
+                "id": "99",
+                "name": "Galaxy S20 Plus (2020)",
+                "sort_order": "20"
+            },
+            {
+                "id": "97",
+                "name": "Galaxy S20 (2020)",
+                "sort_order": "21"
+            },
+            {
+                "id": "98",
+                "name": "Galaxy S20 FE (2020)",
+                "sort_order": "22"
+            },
+            {
+                "id": "96",
+                "name": "Galaxy S10 5G (2019)",
+                "sort_order": "23"
+            },
+            {
+                "id": "94",
+                "name": "Galaxy S10 Plus (2019)",
+                "sort_order": "24"
+            },
+            {
+                "id": "93",
+                "name": "Galaxy S10 (2019)",
+                "sort_order": "25"
+            },
+            {
+                "id": "95",
+                "name": "Galaxy S10e (2019)",
+                "sort_order": "26"
+            },
+            {
+                "id": "92",
+                "name": "Galaxy S9 Plus (2018)",
+                "sort_order": "27"
+            },
+            {
+                "id": "91",
+                "name": "Galaxy S9 (2018)",
+                "sort_order": "28"
+            },
+            {
+                "id": "90",
+                "name": "Galaxy S8 Plus (2017)",
+                "sort_order": "29"
+            },
+            {
+                "id": "89",
+                "name": "Galaxy S8 (2017)",
+                "sort_order": "30"
+            },
+            {
+                "id": "417",
+                "name": "Galaxy S7 Edge (2016)",
+                "sort_order": "31"
+            },
+            {
+                "id": "418",
+                "name": "Galaxy S7 (2016)",
+                "sort_order": "32"
+            }
+        ],
+        "brand": "5"
+    },
+    {
+        "series_id": "11",
+        "series_name": "Galaxy A Series",
+        "models": [
+            {
+                "id": "427",
+                "name": "Galaxy A56",
+                "sort_order": "1"
+            },
+            {
+                "id": "428",
+                "name": "Galaxy A36",
+                "sort_order": "2"
+            },
+            {
+                "id": "429",
+                "name": "Galaxy A26",
+                "sort_order": "3"
+            },
+            {
+                "id": "430",
+                "name": "Galaxy A16 5G",
+                "sort_order": "4"
+            },
+            {
+                "id": "431",
+                "name": "Galaxy A16 4G",
+                "sort_order": "5"
+            },
+            {
+                "id": "173",
+                "name": "Galaxy A55",
+                "sort_order": "6"
+            },
+            {
+                "id": "163",
+                "name": "Galaxy A35",
+                "sort_order": "7"
+            },
+            {
+                "id": "156",
+                "name": "Galaxy A25",
+                "sort_order": "8"
+            },
+            {
+                "id": "149",
+                "name": "Galaxy A15",
+                "sort_order": "9"
+            },
+            {
+                "id": "172",
+                "name": "Galaxy A54",
+                "sort_order": "10"
+            },
+            {
+                "id": "162",
+                "name": "Galaxy A34",
+                "sort_order": "11"
+            },
+            {
+                "id": "155",
+                "name": "Galaxy A24",
+                "sort_order": "12"
+            },
+            {
+                "id": "432",
+                "name": "Galaxy A14 5G",
+                "sort_order": "13"
+            },
+            {
+                "id": "433",
+                "name": "Galaxy A14 4G",
+                "sort_order": "14"
+            },
+            {
+                "id": "177",
+                "name": "Galaxy A73",
+                "sort_order": "15"
+            },
+            {
+                "id": "171",
+                "name": "Galaxy A53",
+                "sort_order": "16"
+            },
+            {
+                "id": "161",
+                "name": "Galaxy A33",
+                "sort_order": "17"
+            },
+            {
+                "id": "434",
+                "name": "Galaxy A23 5G",
+                "sort_order": "18"
+            },
+            {
+                "id": "435",
+                "name": "Galaxy A23 4G",
+                "sort_order": "19"
+            },
+            {
+                "id": "436",
+                "name": "Galaxy A13 5G",
+                "sort_order": "20"
+            },
+            {
+                "id": "437",
+                "name": "Galaxy A13 4G",
+                "sort_order": "21"
+            },
+            {
+                "id": "176",
+                "name": "Galaxy A72",
+                "sort_order": "22"
+            },
+            {
+                "id": "170",
+                "name": "Galaxy A52s",
+                "sort_order": "23"
+            },
+            {
+                "id": "165",
+                "name": "Galaxy A42",
+                "sort_order": "24"
+            },
+            {
+                "id": "440",
+                "name": "Galaxy A32 5G",
+                "sort_order": "25"
+            },
+            {
+                "id": "441",
+                "name": "Galaxy A32 4G",
+                "sort_order": "26"
+            },
+            {
+                "id": "442",
+                "name": "Galaxy A22 5G",
+                "sort_order": "27"
+            },
+            {
+                "id": "444",
+                "name": "Galaxy A12 NACHO",
+                "sort_order": "28"
+            },
+            {
+                "id": "443",
+                "name": "Galaxy A22 4G",
+                "sort_order": "28"
+            },
+            {
+                "id": "146",
+                "name": "Galaxy A12",
+                "sort_order": "29"
+            },
+            {
+                "id": "445",
+                "name": "GalaxyA71 5G",
+                "sort_order": "30"
+            },
+            {
+                "id": "446",
+                "name": "Galaxy A71 4G",
+                "sort_order": "31"
+            },
+            {
+                "id": "447",
+                "name": "Galaxy A51 5G",
+                "sort_order": "32"
+            },
+            {
+                "id": "448",
+                "name": "Galaxy A51 4G",
+                "sort_order": "33"
+            },
+            {
+                "id": "159",
+                "name": "Galaxy A31",
+                "sort_order": "34"
+            },
+            {
+                "id": "153",
+                "name": "Galaxy A21s",
+                "sort_order": "35"
+            },
+            {
+                "id": "145",
+                "name": "Galaxy A11",
+                "sort_order": "36"
+            },
+            {
+                "id": "174",
+                "name": "Galaxy A70",
+                "sort_order": "37"
+            },
+            {
+                "id": "166",
+                "name": "Galaxy A50",
+                "sort_order": "38"
+            },
+            {
+                "id": "495",
+                "name": "Galaxy A30",
+                "sort_order": "39"
+            },
+            {
+                "id": "496",
+                "name": "Galaxy A20",
+                "sort_order": "40"
+            }
+        ],
+        "brand": "8"
+    },
+    {
+        "series_id": "7",
+        "series_name": "iPod",
+        "models": [
+            {
+                "id": "86",
+                "name": "iPod Touch 5th Gen",
+                "sort_order": "0"
+            },
+            {
+                "id": "87",
+                "name": "iPod Touch 6th Gen",
+                "sort_order": "0"
+            },
+            {
+                "id": "88",
+                "name": "iPod Touch 7th Gen",
+                "sort_order": "0"
+            }
+        ],
+        "brand": "4"
+    },
+    {
+        "series_id": "16",
+        "series_name": "Microsoft Surface",
+        "models": [
+            {
+                "id": "321",
+                "name": "Surface Book 1",
+                "sort_order": "0"
+            },
+            {
+                "id": "322",
+                "name": "Surface Book 2 13.5",
+                "sort_order": "0"
+            },
+            {
+                "id": "323",
+                "name": "Surface Book 2 15",
+                "sort_order": "0"
+            },
+            {
+                "id": "324",
+                "name": "Surface Book 3 13.5",
+                "sort_order": "0"
+            },
+            {
+                "id": "325",
+                "name": "Surface Book 3 15",
+                "sort_order": "0"
+            },
+            {
+                "id": "336",
+                "name": "Surface Go",
+                "sort_order": "0"
+            },
+            {
+                "id": "337",
+                "name": "Surface Go 2",
+                "sort_order": "0"
+            },
+            {
+                "id": "338",
+                "name": "Surface Go 3",
+                "sort_order": "0"
+            },
+            {
+                "id": "341",
+                "name": "Surface Laptop 1/2",
+                "sort_order": "0"
+            },
+            {
+                "id": "342",
+                "name": "Surface Laptop 3/4 13.5",
+                "sort_order": "0"
+            },
+            {
+                "id": "343",
+                "name": "Surface Laptop 3/4 15",
+                "sort_order": "0"
+            },
+            {
+                "id": "340",
+                "name": "Surface Laptop Studio",
+                "sort_order": "0"
+            },
+            {
+                "id": "334",
+                "name": "Surface Pro 10",
+                "sort_order": "0"
+            },
+            {
+                "id": "335",
+                "name": "Surface Pro 11",
+                "sort_order": "0"
+            },
+            {
+                "id": "326",
+                "name": "Surface Pro 3",
+                "sort_order": "0"
+            },
+            {
+                "id": "327",
+                "name": "Surface Pro 4",
+                "sort_order": "0"
+            },
+            {
+                "id": "328",
+                "name": "Surface Pro 5",
+                "sort_order": "0"
+            },
+            {
+                "id": "329",
+                "name": "Surface Pro 6",
+                "sort_order": "0"
+            },
+            {
+                "id": "330",
+                "name": "Surface Pro 7",
+                "sort_order": "0"
+            },
+            {
+                "id": "331",
+                "name": "Surface Pro 7+",
+                "sort_order": "0"
+            },
+            {
+                "id": "332",
+                "name": "Surface Pro 8",
+                "sort_order": "0"
+            },
+            {
+                "id": "333",
+                "name": "Surface Pro 9",
+                "sort_order": "0"
+            },
+            {
+                "id": "339",
+                "name": "Surface Pro X",
+                "sort_order": "0"
+            }
+        ],
+        "brand": "13"
+    },
+    {
+        "series_id": "21",
+        "series_name": "Galaxy Flip Series",
+        "models": [
+            {
+                "id": "458",
+                "name": "Galaxy Flip 3",
+                "sort_order": "1"
+            },
+            {
+                "id": "459",
+                "name": "Galaxy Flip 4",
+                "sort_order": "2"
+            },
+            {
+                "id": "460",
+                "name": "Galaxy Flip 5",
+                "sort_order": "3"
+            },
+            {
+                "id": "461",
+                "name": "Galaxy Flip 6",
+                "sort_order": "4"
+            },
+            {
+                "id": "462",
+                "name": "Galaxy Flip 7",
+                "sort_order": "5"
+            }
+        ],
+        "brand": "17"
+    },
+    {
+        "series_id": "5",
+        "series_name": "iPad",
+        "models": [
+            {
+                "id": "47",
+                "name": "iPad 11/A16 2024",
+                "sort_order": "1"
+            },
+            {
+                "id": "46",
+                "name": "iPad 10 2022",
+                "sort_order": "2"
+            },
+            {
+                "id": "45",
+                "name": "iPad 9 2021",
+                "sort_order": "3"
+            },
+            {
+                "id": "44",
+                "name": "iPad 8 2020",
+                "sort_order": "4"
+            },
+            {
+                "id": "43",
+                "name": "iPad 7 2019",
+                "sort_order": "5"
+            },
+            {
+                "id": "42",
+                "name": "iPad 6 2018",
+                "sort_order": "6"
+            },
+            {
+                "id": "41",
+                "name": "iPad 5 2017",
+                "sort_order": "7"
+            },
+            {
+                "id": "40",
+                "name": "iPad 4 2012",
+                "sort_order": "8"
+            },
+            {
+                "id": "39",
+                "name": "iPad 3 2012",
+                "sort_order": "9"
+            },
+            {
+                "id": "38",
+                "name": "iPad 2 2011",
+                "sort_order": "10"
+            }
+        ],
+        "brand": "2"
+    },
+    {
+        "series_id": "3",
+        "series_name": "iPad Air",
+        "models": [
+            {
+                "id": "409",
+                "name": "iPad Air 7 13 Inch",
+                "sort_order": "1"
+            },
+            {
+                "id": "410",
+                "name": "iPad Air 7 2024",
+                "sort_order": "2"
+            },
+            {
+                "id": "411",
+                "name": "iPad Air 6 13 Inch 2024",
+                "sort_order": "3"
+            },
+            {
+                "id": "412",
+                "name": "iPad Air 6 2024",
+                "sort_order": "4"
+            },
+            {
+                "id": "53",
+                "name": "iPad Air 5 2022",
+                "sort_order": "5"
+            },
+            {
+                "id": "52",
+                "name": "iPad Air 4 2020",
+                "sort_order": "6"
+            },
+            {
+                "id": "51",
+                "name": "iPad Air 3 2019",
+                "sort_order": "7"
+            },
+            {
+                "id": "50",
+                "name": "iPad Air 2 2014",
+                "sort_order": "8"
+            },
+            {
+                "id": "49",
+                "name": "iPad Air 1 2013",
+                "sort_order": "9"
+            }
+        ],
+        "brand": "2"
+    },
+    {
+        "series_id": "2",
+        "series_name": "iPad Mini",
+        "models": [
+            {
+                "id": "413",
+                "name": "iPad Mini 7 2024",
+                "sort_order": "1"
+            },
+            {
+                "id": "61",
+                "name": "iPad Mini 6 2021",
+                "sort_order": "2"
+            },
+            {
+                "id": "60",
+                "name": "iPad Mini 5 2019",
+                "sort_order": "3"
+            },
+            {
+                "id": "59",
+                "name": "iPad Mini 4 2015",
+                "sort_order": "4"
+            },
+            {
+                "id": "58",
+                "name": "iPad Mini 3 2014",
+                "sort_order": "5"
+            },
+            {
+                "id": "57",
+                "name": "iPad Mini 2 2013",
+                "sort_order": "6"
+            },
+            {
+                "id": "56",
+                "name": "iPad Mini 1 2012",
+                "sort_order": "7"
+            }
+        ],
+        "brand": "2"
+    },
+    {
+        "series_id": "4",
+        "series_name": "iPad Pro",
+        "models": [
+            {
+                "id": "414",
+                "name": "iPad Pro 13 Inch 2024",
+                "sort_order": "1"
+            },
+            {
+                "id": "73",
+                "name": "iPad Pro 12.9 Inch 6th 2022",
+                "sort_order": "2"
+            },
+            {
+                "id": "72",
+                "name": "iPad Pro 12.9 Inch 5th 2021",
+                "sort_order": "3"
+            },
+            {
+                "id": "71",
+                "name": "iPad Pro 12.9 Inch 4th 2020",
+                "sort_order": "4"
+            },
+            {
+                "id": "70",
+                "name": "iPad Pro 12.9 Inch 3rd 2018",
+                "sort_order": "5"
+            },
+            {
+                "id": "69",
+                "name": "iPad Pro 12.9 Inch 2nd 2017",
+                "sort_order": "6"
+            },
+            {
+                "id": "68",
+                "name": "iPad Pro 12.9 Inch 1st 2015",
+                "sort_order": "7"
+            },
+            {
+                "id": "415",
+                "name": "iPad Pro 11 Inch 5th 2024",
+                "sort_order": "8"
+            },
+            {
+                "id": "67",
+                "name": "iPad Pro 11 Inch 4th 2022",
+                "sort_order": "9"
+            },
+            {
+                "id": "66",
+                "name": "iPad Pro 11 Inch 3rd 2021",
+                "sort_order": "10"
+            },
+            {
+                "id": "65",
+                "name": "iPad Pro 11 Inch 2nd 2020",
+                "sort_order": "11"
+            },
+            {
+                "id": "64",
+                "name": "iPad Pro 11 Inch 1st 2018",
+                "sort_order": "12"
+            },
+            {
+                "id": "63",
+                "name": "iPad Pro 10.5 2017",
+                "sort_order": "13"
+            },
+            {
+                "id": "62",
+                "name": "iPad Pro 9.7 Inch 2016",
+                "sort_order": "14"
+            }
+        ],
+        "brand": "2"
+    },
+    {
+        "series_id": "17",
+        "series_name": "Nintendo Switch",
+        "models": [
+            {
+                "id": "344",
+                "name": "Nintendo Switch",
+                "sort_order": "0"
+            },
+            {
+                "id": "345",
+                "name": "Nintendo Switch Lite",
+                "sort_order": "0"
+            },
+            {
+                "id": "346",
+                "name": "Nintendo Wii U",
+                "sort_order": "0"
+            }
+        ],
+        "brand": "14"
+    },
+    {
+        "series_id": "12",
+        "series_name": "Galaxy Tab S Series",
+        "models": [
+            {
+                "id": "183",
+                "name": "Galaxy Tab S9",
+                "sort_order": "1"
+            },
+            {
+                "id": "188",
+                "name": "Galaxy Tab S8",
+                "sort_order": "2"
+            },
+            {
+                "id": "193",
+                "name": "Galaxy Tab S7 FE",
+                "sort_order": "3"
+            },
+            {
+                "id": "191",
+                "name": "Galaxy Tab S7",
+                "sort_order": "4"
+            },
+            {
+                "id": "195",
+                "name": "Galaxy Tab S6 Lite",
+                "sort_order": "5"
+            },
+            {
+                "id": "449",
+                "name": "Galaxy Tab S2",
+                "sort_order": "6"
+            }
+        ],
+        "brand": "9"
+    },
+    {
+        "series_id": "6",
+        "series_name": "Apple Watch",
+        "models": [
+            {
+                "id": "85",
+                "name": "Apple Watch Ultra 2 (49mm)",
+                "sort_order": "1"
+            },
+            {
+                "id": "84",
+                "name": "Apple Watch Ultra (49mm)",
+                "sort_order": "2"
+            },
+            {
+                "id": "81",
+                "name": "Apple Watch Series 10",
+                "sort_order": "3"
+            },
+            {
+                "id": "80",
+                "name": "Apple Watch Series 9 (45mm)",
+                "sort_order": "4"
+            },
+            {
+                "id": "469",
+                "name": "Apple Watch Series 9 (41mm)",
+                "sort_order": "5"
+            },
+            {
+                "id": "79",
+                "name": "Apple Watch Series 8 (45mm)",
+                "sort_order": "6"
+            },
+            {
+                "id": "470",
+                "name": "Apple Watch Series 8 (41mm)",
+                "sort_order": "7"
+            },
+            {
+                "id": "78",
+                "name": "Apple Watch Series 7 (45mm)",
+                "sort_order": "8"
+            },
+            {
+                "id": "471",
+                "name": "Apple Watch Series 7 (41mm)",
+                "sort_order": "9"
+            },
+            {
+                "id": "83",
+                "name": "Apple Watch SE 2nd Gen (44mm)",
+                "sort_order": "10"
+            },
+            {
+                "id": "472",
+                "name": "Apple Watch SE Gen 2 (40mm)",
+                "sort_order": "11"
+            },
+            {
+                "id": "473",
+                "name": "Apple Watch SE Gen 1 (44mm)",
+                "sort_order": "12"
+            },
+            {
+                "id": "474",
+                "name": "Apple Watch SE Gen 1 (40mm)",
+                "sort_order": "13"
+            },
+            {
+                "id": "77",
+                "name": "Apple Watch Series 6 (44mm)",
+                "sort_order": "14"
+            },
+            {
+                "id": "475",
+                "name": "Apple Watch Series 6 (40mm)",
+                "sort_order": "15"
+            },
+            {
+                "id": "76",
+                "name": "Apple Watch Series 5 (44mm)",
+                "sort_order": "17"
+            },
+            {
+                "id": "476",
+                "name": "Apple Watch Series 5 (40mm)",
+                "sort_order": "18"
+            },
+            {
+                "id": "75",
+                "name": "Apple Watch Series 4 (44mm)",
+                "sort_order": "19"
+            },
+            {
+                "id": "477",
+                "name": "Apple Watch Series 4 (40mm)",
+                "sort_order": "20"
+            },
+            {
+                "id": "74",
+                "name": "Apple Watch Series 3 (42mm)",
+                "sort_order": "21"
+            },
+            {
+                "id": "478",
+                "name": "Apple Watch Series 3 (38mm)",
+                "sort_order": "22"
+            },
+            {
+                "id": "479",
+                "name": "Apple Watch Series 2 (42mm)",
+                "sort_order": "23"
+            },
+            {
+                "id": "480",
+                "name": "Apple Watch Series 2 (38mm)",
+                "sort_order": "24"
+            },
+            {
+                "id": "481",
+                "name": "Apple Watch Series 1 (42mm)",
+                "sort_order": "25"
+            },
+            {
+                "id": "482",
+                "name": "Apple Watch Series 1 (38mm)",
+                "sort_order": "26"
+            }
+        ],
+        "brand": "3"
+    },
+    {
+        "series_id": "22",
+        "series_name": "Galaxy Fold Series",
+        "models": [
+            {
+                "id": "463",
+                "name": "Galaxy Fold 2",
+                "sort_order": "1"
+            },
+            {
+                "id": "464",
+                "name": "Galaxy Fold 3",
+                "sort_order": "2"
+            },
+            {
+                "id": "465",
+                "name": "Galaxy Fold 4",
+                "sort_order": "3"
+            },
+            {
+                "id": "466",
+                "name": "Galaxy Fold 5",
+                "sort_order": "4"
+            },
+            {
+                "id": "467",
+                "name": "Galaxy Fold 6",
+                "sort_order": "5"
+            },
+            {
+                "id": "468",
+                "name": "Galaxy Fold 7",
+                "sort_order": "6"
+            }
+        ],
+        "brand": "18"
+    },
+    {
+        "series_id": "10",
+        "series_name": "Galaxy Note Series",
+        "models": [
+            {
+                "id": "139",
+                "name": "Galaxy Note 20 Ultra",
+                "sort_order": "1"
+            },
+            {
+                "id": "138",
+                "name": "Galaxy Note 20",
+                "sort_order": "2"
+            },
+            {
+                "id": "137",
+                "name": "Galaxy Note 10+",
+                "sort_order": "3"
+            },
+            {
+                "id": "136",
+                "name": "Galaxy Note 10",
+                "sort_order": "4"
+            },
+            {
+                "id": "135",
+                "name": "Galaxy Note 9",
+                "sort_order": "5"
+            },
+            {
+                "id": "134",
+                "name": "Galaxy Note 8",
+                "sort_order": "6"
+            }
+        ],
+        "brand": "7"
+    }
+]

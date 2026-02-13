@@ -12,3 +12,8 @@ A Ruby command-line tool that provides **instant repair quotes** for mobile phon
 - ✅ **Model filtering** - Shows only relevant models per brand
 - ✅ **Real-time pricing** - Issue-wise repair costs displayed instantly
 - ✅ **Clean interface** - Simple numbered selection system
+
+## 🛫 **Output**
+![brand selection](brand-selection.png)
+
+![model selection](model-filtering-with-issues-price.png)

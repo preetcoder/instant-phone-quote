@@ -5,6 +5,8 @@
 
 A Ruby command-line tool that provides **instant repair quotes** for mobile phones and iPads. Select brand → model → issue to get accurate pricing instantly.
 
+Phone data is taken from JS code I created at [Phone-data](https://gist.github.com/preetcoder/54281a17f61e98e8c0f8e84eda7d9b1e)
+
 ## ✨ **Features**
 
 - ✅ **Interactive CLI** - Numbered menus for easy navigation
